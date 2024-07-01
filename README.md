@@ -4,3 +4,5 @@ Repository for implementations of code, notebooks, and other materials for learn
 
 * **conditional-flow-matching-toy** - Jupyter notebook (Original https://bm371613.github.io/conditional-flow-matching/) with comments and annotations on the inner works and logic. 
 
+* **mnist_flow_matching.ipynb** - My toy implementation of CFM to generate digits from the MNIST dataset using flow matching
+
